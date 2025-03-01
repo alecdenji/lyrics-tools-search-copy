@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Lyrics Search & Copy",
-    "version": "1.10.1",
-    "description": "Search and copy lyrics from lyrics.mcgi.app",
+    "version": "1.10.2",
+    "description": "Made by MCGIPROD EC ADS1",
     "permissions": ["activeTab", "scripting", "clipboardWrite"],
     "action": {
       "default_popup": "popup.html",
